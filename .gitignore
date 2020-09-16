@@ -2,3 +2,4 @@
 #.ipynb_checkpoints/**
 **/.ipynp_checkpoints
 **/data_sets
+**/*.csv
