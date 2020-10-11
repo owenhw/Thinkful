@@ -16,7 +16,7 @@ Per the website the data has undergone some cleaning already. Trips longer then 
 > H1<sub>0</sub> There is no statistically significant variance in traffic flow based upon the time of day.
 <br>H1<sub>A</sub> There is a statistically significant variance in traffic flow based upon the time of day.
 <br>
-<br>
+
 > H2<sub>0</sub> There is no statistically significant difference in the difference in flow based upon the neighborhood.
 <br>H2<sub>A</sub> There is a statistically significant difference in the difference in flow based upon the neighborhood.
 
