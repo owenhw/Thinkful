@@ -2,7 +2,6 @@
 
 Supervised Learning Capstone Project
 
-Modeling traffic and usage data of infrastructure is critical to making decisions about how to invest in and deploy infrastructure going forward. In a business case, predicting vehicle demand would help the program optimize revenue. The goal of this project is to predict traffic inflows and outflows from neighborhoods.
 
 
 ### The Dataset
@@ -13,12 +12,7 @@ Per the website the data has undergone some cleaning already. Trips longer then 
 
 ### Hypothesies
 
-> H1<sub>0</sub> There is no statistically significant variance in traffic flow based upon the time of day.
-<br>H1<sub>A</sub> There is a statistically significant variance in traffic flow based upon the time of day.
-<br>
 
-> H2<sub>0</sub> There is no statistically significant difference in the difference in flow based upon the neighborhood.
-<br>H2<sub>A</sub> There is a statistically significant difference in the difference in flow based upon the neighborhood.
 
 ### Challanges
 
