@@ -18,6 +18,10 @@ It would require an undue ammount of time and resources to consider 18,000 playe
 ### Challanges
  - Identifying the correct number of clusers
  - Handeling and avoiding bias within the dataset
+ 
+### Workflow
+
+[Data Cleaning](https://github.com/owenhw/Thinkful/blob/master/Capstone%203:%20Unsupervised%20Learning/Data%20Cleaning%20and%20Initial%20EDA.ipynb) -> [Segmentation](https://github.com/owenhw/Thinkful/blob/master/Capstone%203:%20Unsupervised%20Learning/Segmentation.ipynb) -> [Analysis and Labeling Clusters](https://github.com/owenhw/Thinkful/blob/master/Capstone%203:%20Unsupervised%20Learning/Analysis%20and%20Labeling%20of%20Clusters.ipynb)
 
 
 
