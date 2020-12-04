@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 #.ipynb_checkpoints/**
 **/.ipynp_checkpoints
-**/data_sets
+**/data*
+**/?mages
 **/*.csv
+**/*.zip
+**/dask-worker-space
