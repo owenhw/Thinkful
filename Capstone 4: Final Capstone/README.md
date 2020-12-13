@@ -1,18 +1,7 @@
 # Final Capstone Project
 
-
-
-## Objectives
-
-## Challanges
-
-## Technologies Used
-- Scikit-Learn
-- Dask
-- Google Cloud Services
-- Jupyter Hub
-- XGBoost
+Please See my proposal for a descripton of the project.
 
 ## Workflow
 
-[Proposal]() -> [Data Cleaning]() -> [EDA] -> [Modeling]()
+[Proposal](https://github.com/owenhw/Thinkful/blob/master/Capstone%204:%20Final%20Capstone/Proposal.ipynb) -> [Data Cleaning](https://github.com/owenhw/Thinkful/blob/master/Capstone%204:%20Final%20Capstone/Data%20Cleaning.ipynb) -> [EDA](https://github.com/owenhw/Thinkful/blob/master/Capstone%204:%20Final%20Capstone/EDA.ipynb) -> [Modeling](https://github.com/owenhw/Thinkful/blob/master/Capstone%204:%20Final%20Capstone/Modeling.ipynb)
