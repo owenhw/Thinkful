@@ -1,7 +1,5 @@
-This a public repository that I use for both syncing assingments and projects across multiple computers as well as for submitting assignments for grading.
+This repository contains my coursework from Thinkful's Data Science Bootcamp.
 
-Most things here are not intended for public consumption and are a work in progress. In particular my use of commits is something I'm working on improving.
+I am currently looking for opportunities to use the skills demonstrated here to create data driven solutions that create business value. 
 
-I'm very excited about my journey into Data Science and coding!
-
-Questions or comments can be sent to owenhw@gmail.com
+If you are interested in my work or have any questions please reach out at owenhw@gmail.com.
